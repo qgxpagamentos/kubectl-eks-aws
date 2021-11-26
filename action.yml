@@ -1,0 +1,8 @@
+name: kubectl-eks-aws
+description: This action provides kubectl for Github Actions.
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: 'list'
+  color: 'purple'
